@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8SCdojev)
 # TR-Autonomy-0
 Setup guide for TR Autonomy recruits
 
@@ -40,3 +41,5 @@ If you can get a publisher and a talker running in terminal, congratulations! Yo
 
 More resources can be accessed by clicking the "CV Training Resources badge" at the top of the README to see the relevant chapters.
 **To complete this assignment, take a screenshot of ubuntu running, add it to this git repo, and commit+push it.**
+
+Is this submitted?
