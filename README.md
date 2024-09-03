@@ -41,3 +41,5 @@ If you can get a publisher and a talker running in terminal, congratulations! Yo
 
 More resources can be accessed by clicking the "CV Training Resources badge" at the top of the README to see the relevant chapters.
 **To complete this assignment, take a screenshot of ubuntu running, add it to this git repo, and commit+push it.**
+
+Is this submitted?
